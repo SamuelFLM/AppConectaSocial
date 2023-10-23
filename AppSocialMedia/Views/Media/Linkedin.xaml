@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="AppSocialMedia.Views.Media.Linkedin"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <WebView
+            Grid.Row="1"
+            HorizontalOptions="FillAndExpand"
+            Source="https://www.linkedin.com/feed/"
+            VerticalOptions="FillAndExpand" />
+    </Grid>
+</ContentPage>

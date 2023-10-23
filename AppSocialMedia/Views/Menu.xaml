@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="AppSocialMedia.Views.Menu"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Menu"
+    BackgroundColor="#0C4270">
+
+    <Grid>
+        <Image
+            Margin="0,0"
+            Aspect="AspectFill"
+            HeightRequest="1000"
+            Opacity="0.2"
+            Source="https://img.freepik.com/fotos-gratis/fundo-de-papel-de-parede-colorido-embacado-artistico_58702-8325.jpg"
+            VerticalOptions="Start" />
+
+        <VerticalStackLayout>
+
+            <WebView
+                Margin="0"
+                BackgroundColor="Transparent"
+                HeightRequest="180"
+                WidthRequest="500">
+                <WebView.Source>
+                    <HtmlWebViewSource Html="&lt;html&gt;&lt;body style='margin:0;'&gt;&lt;img src='https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=20,24&amp;height=300&amp;animation=fadeIn&amp;section=header&amp;text=Conecta Social&amp;fontSize=40&amp;fontAlignY=40' width='100%'&gt;&lt;/body&gt;&lt;/html&gt;" />
+                </WebView.Source>
+            </WebView>
+
+            <Border
+                Margin="80,0"
+                Padding="10"
+                Stroke="Transparent"
+                StrokeShape="RoundRectangle 10">
+                <ImageButton Clicked="OnButtonClickedHome" Source="home_24.svg" />
+            </Border>
+
+            <VerticalStackLayout Margin="0,40">
+                <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+
+                    <Border
+                        Margin="40,0"
+                        Padding="10"
+                        Stroke="Transparent"
+                        StrokeShape="RoundRectangle 10">
+                        <ImageButton
+                            Clicked="OnButtonClickedLinkedin"
+                            Source="linkedin.svg"
+                            WidthRequest="80" />
+                    </Border>
+
+                    <Border
+                        Margin="40,0"
+                        Padding="10"
+                        Stroke="Transparent"
+                        StrokeShape="RoundRectangle 10">
+                        <ImageButton
+                            Clicked="OnButtonClickedGithub"
+                            Source="github.svg"
+                            WidthRequest="80" />
+                    </Border>
+                </HorizontalStackLayout>
+            </VerticalStackLayout>
+
+            <VerticalStackLayout Margin="0,40">
+                <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+
+                    <Border
+                        Margin="40,0"
+                        Padding="10"
+                        Stroke="Transparent"
+                        StrokeShape="RoundRectangle 10">
+                        <ImageButton
+                            Clicked="OnButtonClickedYoutube"
+                            Source="Youtube.svg"
+                            WidthRequest="80" />
+                    </Border>
+
+                    <Border
+                        Margin="40,0"
+                        Padding="10"
+                        Stroke="Transparent"
+                        StrokeShape="RoundRectangle 10">
+                        <ImageButton
+                            Clicked="OnButtonClickedFacebook"
+                            Source="Facebook.svg"
+                            WidthRequest="80" />
+                    </Border>
+                </HorizontalStackLayout>
+            </VerticalStackLayout>
+
+            <VerticalStackLayout Margin="0,40">
+                <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+
+                    <Border
+                        Margin="40,0"
+                        Padding="10"
+                        Stroke="Transparent"
+                        StrokeShape="RoundRectangle 10">
+                        <ImageButton
+                            Clicked="OnButtonClickedInstagram"
+                            Source="Instagram.svg"
+                            WidthRequest="80" />
+                    </Border>
+
+                    <Border
+                        Margin="40,0"
+                        Padding="10"
+                        Stroke="Transparent"
+                        StrokeShape="RoundRectangle 10">
+                        <ImageButton
+                            Clicked="OnButtonClickedReddit"
+                            Source="Reddit.svg"
+                            WidthRequest="80" />
+                    </Border>
+                </HorizontalStackLayout>
+            </VerticalStackLayout>
+
+            <VerticalStackLayout Margin="0,40">
+                <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+
+                    <Border
+                        Margin="40,0"
+                        Padding="10"
+                        Stroke="Transparent"
+                        StrokeShape="RoundRectangle 10">
+                        <ImageButton
+                            Clicked="OnButtonClickedTiktok"
+                            Source="tiktok.svg"
+                            WidthRequest="80" />
+                    </Border>
+
+                    <Border
+                        Margin="40,0"
+                        Padding="10"
+                        Stroke="Transparent"
+                        StrokeShape="RoundRectangle 10">
+                        <ImageButton
+                            Clicked="OnButtonClickedStackOverFlow"
+                            Source="stackoverflow.svg"
+                            WidthRequest="80" />
+                    </Border>
+                </HorizontalStackLayout>
+            </VerticalStackLayout>
+
+
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>
