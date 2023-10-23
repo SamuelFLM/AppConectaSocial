@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppSocialMedia
+build_property.ProjectDir = C:\Users\Lazer\OneDrive\Área de Trabalho\ConectaSocial\AppSocialMedia\
+
+[C:/Users/Lazer/OneDrive/Área de Trabalho/ConectaSocial/AppSocialMedia/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppSocialMedia.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Lazer/OneDrive/Área de Trabalho/ConectaSocial/AppSocialMedia/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppSocialMedia.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Lazer/OneDrive/Área de Trabalho/ConectaSocial/AppSocialMedia/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppSocialMedia.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Lazer/OneDrive/Área de Trabalho/ConectaSocial/AppSocialMedia/Views/FlyoutPageMenu.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppSocialMedia.Views.FlyoutPageMenu.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\FlyoutPageMenu.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\FlyoutPageMenu.xaml
+
+[C:/Users/Lazer/OneDrive/Área de Trabalho/ConectaSocial/AppSocialMedia/Views/Home.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppSocialMedia.Views.Home.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Home.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Home.xaml
+
+[C:/Users/Lazer/OneDrive/Área de Trabalho/ConectaSocial/AppSocialMedia/Views/Media/Facebook.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppSocialMedia.Views.Media.Facebook.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Media\Facebook.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Media\Facebook.xaml
+
+[C:/Users/Lazer/OneDrive/Área de Trabalho/ConectaSocial/AppSocialMedia/Views/Media/Github.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppSocialMedia.Views.Media.Github.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Media\Github.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Media\Github.xaml
+
+[C:/Users/Lazer/OneDrive/Área de Trabalho/ConectaSocial/AppSocialMedia/Views/Media/Instagram.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppSocialMedia.Views.Media.Instagram.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Media\Instagram.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Media\Instagram.xaml
+
+[C:/Users/Lazer/OneDrive/Área de Trabalho/ConectaSocial/AppSocialMedia/Views/Media/Linkedin.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppSocialMedia.Views.Media.Linkedin.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Media\Linkedin.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Media\Linkedin.xaml
+
+[C:/Users/Lazer/OneDrive/Área de Trabalho/ConectaSocial/AppSocialMedia/Views/Media/Reddit.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppSocialMedia.Views.Media.Reddit.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Media\Reddit.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Media\Reddit.xaml
+
+[C:/Users/Lazer/OneDrive/Área de Trabalho/ConectaSocial/AppSocialMedia/Views/Media/StackOverFlow.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppSocialMedia.Views.Media.StackOverFlow.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Media\StackOverFlow.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Media\StackOverFlow.xaml
+
+[C:/Users/Lazer/OneDrive/Área de Trabalho/ConectaSocial/AppSocialMedia/Views/Media/Tiktok.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppSocialMedia.Views.Media.Tiktok.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Media\Tiktok.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Media\Tiktok.xaml
+
+[C:/Users/Lazer/OneDrive/Área de Trabalho/ConectaSocial/AppSocialMedia/Views/Media/Youtube.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppSocialMedia.Views.Media.Youtube.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Media\Youtube.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Media\Youtube.xaml
+
+[C:/Users/Lazer/OneDrive/Área de Trabalho/ConectaSocial/AppSocialMedia/Views/Menu.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppSocialMedia.Views.Menu.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Menu.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Menu.xaml
